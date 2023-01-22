@@ -1,0 +1,29 @@
+\contentsline {section}{\numberline {1}Introduction}{iii}{}%
+\contentsline {subsection}{\numberline {1.1}Quadration Equation}{iii}{}%
+\contentsline {section}{\numberline {2}Maths question paper}{iv}{}%
+\contentsline {section}{\numberline {3}Introducing images in Latex}{vi}{}%
+\contentsline {subsection}{\numberline {3.1}Aston Martin}{vi}{}%
+\contentsline {subsection}{\numberline {3.2}Eiffel Tower}{vii}{}%
+\contentsline {section}{\numberline {4}Introducing tables in Latex}{vii}{}%
+\contentsline {subsection}{\numberline {4.1}Table1}{vii}{}%
+\contentsline {subsection}{\numberline {4.2}Table using csv file}{viii}{}%
+\contentsline {section}{\numberline {5}Bibliography}{viii}{}%
+\contentsline {subsection}{\numberline {5.1}Black Holes}{viii}{}%
+\contentsline {subsection}{\numberline {5.2}Reference}{ix}{}%
+\contentsline {section}{\numberline {6}Research Paper}{x}{}%
+\contentsline {subsection}{\numberline {6.1}Introduction}{x}{}%
+\contentsline {subsection}{\numberline {6.2}Related Work}{x}{}%
+\contentsline {subsubsection}{\numberline {6.2.1}Naive Bayes}{x}{}%
+\contentsline {subsubsection}{\numberline {6.2.2}Support Vector Machines}{xi}{}%
+\contentsline {subsubsection}{\numberline {6.2.3}K-Nearest Neighbour}{xi}{}%
+\contentsline {subsubsection}{\numberline {6.2.4}Convolutional Neural Network}{xi}{}%
+\contentsline {subsubsection}{\numberline {6.2.5}Land - forms Classification}{xi}{}%
+\contentsline {subsection}{\numberline {6.3}Overview of Herarchial Temporal Memory}{xi}{}%
+\contentsline {subsubsection}{\numberline {6.3.1}Structure of a Neuron}{xii}{}%
+\contentsline {subsubsection}{\numberline {6.3.2}Sparse Distributed Representation}{xii}{}%
+\contentsline {subsubsection}{\numberline {6.3.3}Spatial Pooler}{xii}{}%
+\contentsline {subsection}{\numberline {6.4}Implementation}{xiii}{}%
+\contentsline {subsubsection}{\numberline {6.4.1}Latent Sematic Indexing}{xiii}{}%
+\contentsline {subsubsection}{\numberline {6.4.2}Spatial Pooler}{xiv}{}%
+\contentsline {subsection}{\numberline {6.5}Results}{xiv}{}%
+\contentsline {subsection}{\numberline {6.6}Conclusion and Future Scope}{xv}{}%
